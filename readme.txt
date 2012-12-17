@@ -1,7 +1,7 @@
 === Follow Me Tabs ===
 Contributors: code4site
 Donate link: http://follow.code4site.com
-Tags: follow, social media, social networks, buttons
+Tags: follow, social media, social networks, buttons, plugin, widget
 Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.0
@@ -49,7 +49,7 @@ Note: This plugin is not using any data from any 3rd pary site and is not sendin
 
 == Installation ==
 
-1. Upload follow_me_tabs_123 folder and all its files to the `/wp-content/plugins/` directory
+1. Upload follow_me_tabs folder and all its files to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Settings->Follow Me Tabs and set your social networks
 4. You can use follow me tags as widget on Appearance->Widgets
